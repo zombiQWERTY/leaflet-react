@@ -5,8 +5,6 @@ const TOKEN = process.env.REACT_APP_MAP_SERVICE_TOKEN;
 const URL = "https://api.openrouteservice.org/v2/directions";
 const TYPE = "driving-car";
 
-console.log(process.env);
-
 interface ApiResponse {
   features: Array<GeoJSON.GeoJSON>;
 }
