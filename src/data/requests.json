@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "First",
+    "loadPoint": 1,
+    "unloadPoint": 2
+  },
+  {
+    "id": 2,
+    "title": "Second",
+    "loadPoint": 1,
+    "unloadPoint": 3
+  },
+  {
+    "id": 3,
+    "title": "Third",
+    "loadPoint": 3,
+    "unloadPoint": 4
+  },
+  {
+    "id": 4,
+    "title": "Forth",
+    "loadPoint": 2,
+    "unloadPoint": 4
+  }
+]
